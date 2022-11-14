@@ -5,7 +5,7 @@
  
 * Logistics
   * Schedule: 9-5 Central
-  * Lunch: 12:20-1:00 Central
+  * Lunch: 12:00-12:40 Central
   * 10-min. break every 90 mins. or so
   * Survey: https://www.surveymonkey.com/r/WPFYLXN
    
