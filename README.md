@@ -3,8 +3,11 @@
 * Me
    * dave@developintelligence.com
  
-* Survey
-  * https://www.surveymonkey.com/r/WPFYLXN
+* Logistics
+  * Schedule: 9-5 Central
+  * Lunch: 12:20-1:00 Central
+  * 10-min. break every 90 mins. or so
+  * Survey: https://www.surveymonkey.com/r/WPFYLXN
    
 # Install
    * Anaconda distribution https://www.anaconda.com/
